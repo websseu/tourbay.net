@@ -1,0 +1,193 @@
+/* NanumSquareNeo Regular */
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../fonts/NanumSquareNeo-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* NanumSquareNeo Light */
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../fonts/NanumSquareNeo-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* NanumSquareNeo Bold */
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../fonts/NanumSquareNeo-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* NanumSquareNeo ExtraBold */
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../fonts/NanumSquareNeo-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* NanumSquareNeo Black */
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../fonts/NanumSquareNeo-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'NanumSquareNeo', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: 'NanumSquareNeo', sans-serif;
+    font-weight: 700;
+}
+
+table,
+body p,
+.blockspare-posts-block-post-grid-excerpt-content,
+.archive-description,
+.woocommerce form label,
+.nav-previous h4,
+.nav-next h4,
+.exclusive-posts .marquee a,
+.widget ul.menu>li,
+.widget ul ul li,
+.widget ul>li,
+.widget ol>li,
+main ul li,
+main ol li,
+p,
+input,
+textarea,
+body .blockspare-posts-block-post-grid-excerpt,
+body.primary-post-title-font.single h1.entry-title,
+body.primary-post-title-font.page h1.entry-title,
+body.primary-post-title-font .bs-marquee-wrapper,
+body.primary-post-title-font .blockspare-title-wrapper .blockspare-title,
+body.primary-post-title-font h4.blockspare-posts-block-post-grid-title,
+body.primary-post-title-font .read-title h3,
+body.primary-post-title-font .exclusive-post-title,
+.chromenews-customizer .post-description,
+.chromenews-widget .post-description,
+.site-description {
+    font-family: 'NanumSquareNeo', sans-serif;
+}
+
+.read-title h3 a {
+    font-family: 'NanumSquareNeo', sans-serif;
+}
+
+
+.hotel-box h2 a {
+    border-color: #fff;
+}
+
+/* 모바일용 스타일 */
+@media (max-width: 768px) {
+
+
+    .site-branding img {
+        width: 150px;
+        border-radius: 5px !important;
+    }
+
+    .site-description {
+        font-size: 14px;
+        font-weight: normal;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mid-header-wrapper,
+    header#masthead {
+        overflow: visible;
+    }
+
+    #main-navigation-bar {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+}
+
+.hotel-gallery {
+    display: flex;
+    flex-direction: column;
+    /* 위 아래로 배치 */
+    gap: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* 상단 메인 이미지 */
+.hotel-gallery .main-image {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    /* 4:3 비율 유지 */
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.hotel-gallery .main-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* 하단 썸네일 영역 */
+.hotel-gallery .thumbs {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.hotel-gallery .thumbs img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+}
+
+.hotel-info p {
+    margin-bottom: 05px;
+}
+
+.hotel-detail {
+    font-weight: normal;
+}
+
+.hotel-btn {
+    width: 100%;
+    background: #0077cc;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 50px;
+    display: block;
+}
+
+.hotel-btn:hover {
+    color: #fff1f5 !important;
+}

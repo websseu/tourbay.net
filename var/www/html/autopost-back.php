@@ -169,49 +169,98 @@ $post_title = $title_patterns[array_rand($title_patterns)];
 $content = "";
 
 foreach ($data as $index => $hotel) {
-    $rank    = $index + 1;
+    $rank = $index + 1; 
     $name    = esc_html($hotel['name'] ?? '');
     $detail  = esc_html($hotel['detail'] ?? '');
     $url     = esc_url($hotel['hotel_url'] ?? '#');
     $gallery = $hotel['gallery'] ?? [];
-    $area    = esc_html($hotel['area'] ?? '');
     $rating  = esc_html($hotel['rating'] ?? '');
     $reviews = esc_html($hotel['reviews'] ?? '');
+    $area    = esc_html($hotel['area'] ?? '');
 
-    // 이미지 5장 변수로 추출
-    $main_image1 = !empty($gallery[0]) ? esc_url($gallery[0]) : '';
-    $main_image2 = !empty($gallery[1]) ? esc_url($gallery[1]) : '';
-    $main_image3 = !empty($gallery[2]) ? esc_url($gallery[2]) : '';
-    $main_image4 = !empty($gallery[3]) ? esc_url($gallery[3]) : '';
-    $main_image5 = !empty($gallery[4]) ? esc_url($gallery[4]) : '';
+    // 메인 이미지 1장 (없으면 빈칸)
+    $main_img = esc_url($gallery[0] ?? '');
 
-    // HTML 출력
-    $content .= '
-        <div class="hotel-box">
-            <h2>'.$rank.'. '.$name.'</h2>
+    // 썸네일 4장 (2~5번째 이미지)
+    $thumbs = array_slice($gallery, 1, 4);
 
-            <div>
-                <a class="hotel-gallery" href="'.$url.'" target="_blank" rel="noopener">
-                    <div class="main-image">
-                        '.($main_image1 ? '<img src="'.$main_image1.'" alt="'.esc_attr($name).'"/>' : '<p>이미지가 없습니다</p>').'
-                    </div>
-                    <div class="thumbs">
-                        '.($main_image2 ? '<img src="'.$main_image2.'" alt="'.esc_attr($name).'"/>' : '').''.($main_image3 ? '<img src="'.$main_image3.'" alt="'.esc_attr($name).'"/>' : '').''.($main_image4 ? '<img src="'.$main_image4.'" alt="'.esc_attr($name).'"/>' : '').''.($main_image5 ? '<img src="'.$main_image5.'" alt="'.esc_attr($name).'"/>' : '').'
-                    </div>
-                </a>
-            </div>
+    // 호텔 박스
+    $content .= '<div class="hotel-box" style="width:100%;">';
 
-            <div class="hotel-info">
-                '.($area ? '<p>📍 지역: <a href="'.$url.'" target="_blank" rel="noopener">'.$area.'</a></p>' : '').'
-                '.($rating  ? '<p>⭐ 평점: '.$rating.'</p>' : '').'
-                '.($reviews ? '<p>💬 리뷰: '.$reviews.'</p>' : '').'
-            </div>
+    // 제목
+    $content .= '<h2 style="margin:50px 0 10px 0;font-size:1.5rem;">
+        '.$rank.'. <a href="' . $url . '" target="_blank" rel="noopener" style="color:#333;text-decoration:none;">' . $name . '</a>
+    </h2>';
 
-            <p class="hotel-detail">'.$detail.'</p>   
+    // 갤러리 영역
+    $content .= '<div class="hotel-gallery"> <a href="'.$url.'" target="_blank" rel="noopener" style="display:block;">';
 
-            <a class="hotel-btn" href="'.$url.'" target="_blank" rel="noopener">💰 가격 확인해보기</a>
-        </div>
-    ';
+    // 메인 이미지
+    if ($main_img) {
+        $content .= '
+            <div class="g1" style="
+                background-image:url(\''.$main_img.'\');
+                background-size:cover;
+                background-position:center;
+                height:400px;
+                margin-bottom:5px;
+                border-radius:6px;
+                transition:transform .3s;
+            "></div>
+        ';
+    }
+
+    // 썸네일 이미지 
+    $content .= '<div class="g2" style="display:flex; gap:5px;">';
+    foreach ($thumbs as $thumb) {
+        $thumb_url = esc_url($thumb);
+        $content .= '
+            <div style="
+                width:100%;
+                height:100px;
+                background-image:url(\''.$thumb_url.'\');
+                background-size:cover;
+                background-position:center;
+                border-radius:4px;
+                transition:transform .3s;
+            "></div>
+        ';
+    }
+    $content .= '</div>'; // .g2
+    $content .= '</a></div>'; // .hotel-gallery
+
+    
+    // 지역 / 평점 / 리뷰
+    $content .= '<p style="font-size:0.9rem; color:#666; margin-bottom:5px; margin-top:10px">
+        지역: <a href="'.$url.'" target="_blank" rel="noopener" style="color:#0077cc; text-decoration:none;">'.$area.'</a>
+    </p>';
+    if ($rating)  $content .= '<p style="font-size:0.9rem; color:#444; margin-bottom:5px;">평점: '.$rating.'</p>';
+    if ($reviews) $content .= '<p style="font-size:0.9rem; color:#444; margin-bottom:5px;">'.$reviews.'</p>';
+
+    // 디테일
+    $content .= '<p style="font-size:1rem;line-height:1.6;color:#555;">' . $detail . '</p>';
+
+    // 가격 확인 버튼
+    $content .= '<div style="margin-top:10px; margin-bottom:30px;">
+        <a href="'.$url.'" target="_blank" rel="noopener"
+        style="
+            display:inline-block;
+            width: 100%;
+            background:#0077cc;
+            color:#fff;
+            padding:10px 20px;
+            font-size:1rem;
+            font-weight:bold;
+            text-decoration:none;
+            border-radius:6px;
+            transition:background .3s;
+            text-align:center;
+        "
+        onmouseover="this.style.background=\'#005fa3\'"
+        onmouseout="this.style.background=\'#0077cc\'">💰 가격 확인해보기</a>
+    </div>';
+
+    $content .= '</div>'; // .hotel-box
 }
 
 // ========================
