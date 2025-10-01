@@ -89,10 +89,17 @@ body.primary-post-title-font .exclusive-post-title,
     font-family: 'NanumSquareNeo', sans-serif;
 }
 
+.entry-title {
+    font-family: 'NanumSquareNeo', sans-serif !important;
+}
+
 .read-title h3 a {
     font-family: 'NanumSquareNeo', sans-serif;
 }
 
+.hotel-box h2 {
+    margin-bottom: 0;
+}
 
 .hotel-box h2 a {
     border-color: #fff;
@@ -100,8 +107,6 @@ body.primary-post-title-font .exclusive-post-title,
 
 /* 모바일용 스타일 */
 @media (max-width: 768px) {
-
-
     .site-branding img {
         width: 150px;
         border-radius: 5px !important;
@@ -129,17 +134,14 @@ body.primary-post-title-font .exclusive-post-title,
 .hotel-gallery {
     display: flex;
     flex-direction: column;
-    /* 위 아래로 배치 */
     gap: 10px;
     max-width: 800px;
     margin: 0 auto;
 }
 
-/* 상단 메인 이미지 */
 .hotel-gallery .main-image {
     width: 100%;
     aspect-ratio: 4 / 3;
-    /* 4:3 비율 유지 */
     overflow: hidden;
     border-radius: 8px;
 }
@@ -151,7 +153,6 @@ body.primary-post-title-font .exclusive-post-title,
     display: block;
 }
 
-/* 하단 썸네일 영역 */
 .hotel-gallery .thumbs {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -188,6 +189,29 @@ body.primary-post-title-font .exclusive-post-title,
     display: block;
 }
 
+.hotel-btn:visited {
+    color: #ffeded;
+}
+
 .hotel-btn:hover {
     color: #fff1f5 !important;
+}
+
+.hotel-summary h3 {
+    margin-top: 0;
+}
+
+.hotel-summary-list ol {
+    padding-left: 0;
+}
+
+.hotel-summary-list ol li {
+    font-size: 16px;
+}
+
+.hotel-summary-list p {
+    margin-top: 15px;
+    margin-bottom: 60px;
+    font-size: 14px;
+    color: #555;
 }
