@@ -105,32 +105,6 @@ body.primary-post-title-font .exclusive-post-title,
     border-color: #fff;
 }
 
-/* 모바일용 스타일 */
-@media (max-width: 768px) {
-    .site-branding img {
-        width: 150px;
-        border-radius: 5px !important;
-    }
-
-    .site-description {
-        font-size: 14px;
-        font-weight: normal;
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-    .mid-header-wrapper,
-    header#masthead {
-        overflow: visible;
-    }
-
-    #main-navigation-bar {
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-    }
-}
-
 .hotel-gallery {
     display: flex;
     flex-direction: column;
@@ -214,4 +188,47 @@ body.primary-post-title-font .exclusive-post-title,
     margin-bottom: 60px;
     font-size: 14px;
     color: #555;
+}
+
+/* 모바일용 스타일 */
+@media (max-width: 768px) {
+    .site-branding img {
+        width: 150px;
+        border-radius: 5px !important;
+    }
+
+    .site-description {
+        font-size: 14px;
+        font-weight: normal;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mid-header-wrapper,
+    header#masthead {
+        overflow: visible;
+    }
+
+    #main-navigation-bar {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+
+    .hotel-gallery {
+        gap: 5px;
+    }
+
+    .hotel-gallery .thumbs {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+    }
+
+    .promotionspace .col-2 {
+        width: 100%;
+    }
+
+    .af-container-row .col-3 {
+        width: 100% !important;
+    }
 }

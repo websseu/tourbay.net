@@ -66,12 +66,13 @@ $city_keys = array_keys($cities);
 $max_attempts = 10;
 $selected_city = null;
 $data = null;
+$yesterday = date('Y-m-d', strtotime('-1 day'));
 
 for ($i = 0; $i < $max_attempts; $i++) {
     $city_kr = $city_keys[array_rand($city_keys)];
     $city_en = $cities[$city_kr];
 
-    $json_url = "https://websseu.github.io/data_hotel_korea/CityTop10/2025-09-24/{$city_en}.json";
+    $json_url = "https://websseu.github.io/data_hotel_korea/CityTop10/{$yesterday}/{$city_en}.json";
     echo "[$i] 시도 → {$city_kr} ({$city_en}) : {$json_url}<br>";
 
     $response = wp_remote_get($json_url);
