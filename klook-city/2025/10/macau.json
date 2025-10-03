@@ -1,74 +1,208 @@
 {
+  "액티비티": [
+    {
+      "title": "하우스 오브 댄싱 워터 티켓",
+      "link": "https://www.klook.com/ko/activity/90-the-house-of-dancing-water-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/ajqdqywmsojfhrppnrkq.webp",
+      "type": "이벤트 & 공연 • 마카오",
+      "score": "4.8",
+      "reviews": "18871",
+      "price": "US$ 84.15"
+    },
+    {
+      "title": "마카오 오픈탑 버스 나이트 투어",
+      "link": "https://www.klook.com/ko/activity/82471-goldspark-hk/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/yzbebpogc3gabfiosd6z.webp",
+      "type": "투어 • 마카오",
+      "score": "4.5",
+      "reviews": "1451",
+      "price": "US$ 19.45"
+    },
+    {
+      "title": "팀랩 슈퍼네이처 마카오 입장권 - 더 베네시안 마카오",
+      "link": "https://www.klook.com/ko/activity/33776-teamlab-supernature-macao-ticket/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/ca6p4rtm87i58vv1bt6x.webp",
+      "type": "박물관 & 미술관 • 마카오",
+      "score": "4.7",
+      "reviews": "2706",
+      "price": "US$ 21.45"
+    },
+    {
+      "title": "마카오 타워 입장권",
+      "link": "https://www.klook.com/ko/activity/506-macau-tower-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/ueo7ztacgzc5amdy0sdp.webp",
+      "type": "전망대 • 마카오",
+      "score": "4.6",
+      "reviews": "8187",
+      "price": "US$ 11.25"
+    },
+    {
+      "title": "마카오 스튜디오 시티 워터파크 티켓",
+      "link": "https://www.klook.com/ko/activity/56518-studio-city-waterpark/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/pgpd9msxdqpf6j7a6gll.webp",
+      "type": "워터파크 • 마카오",
+      "score": "4.7",
+      "reviews": "2152",
+      "price": "US$ 39.95"
+    },
+    {
+      "title": "마카오 시티투어 버스 (오픈탑)",
+      "link": "https://www.klook.com/ko/activity/1876-open-top-bus-tour-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/cnb7orppb1kkvwimkji9.webp",
+      "type": "투어 • 마카오",
+      "score": "4.3",
+      "reviews": "2541",
+      "price": "US$ 24.90"
+    },
+    {
+      "title": "마카오 스튜디오 시티 골든릴 관람차 티켓",
+      "link": "https://www.klook.com/ko/activity/750-golden-reel-ferris-wheel-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/fdqunwmdmxwqzkzkz7jz.webp",
+      "type": "전망대 • 마카오",
+      "score": "4.4",
+      "reviews": "5830",
+      "price": "US$ 10.95"
+    },
+    {
+      "title": "스튜디오 시티 슈퍼 펀 존 티켓",
+      "link": "https://www.klook.com/ko/activity/73738-studio-city-super-fun-zone/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/qvvlxw3qkn22vcviadog.webp",
+      "type": "키즈 어트랙션 • 마카오",
+      "score": "4.6",
+      "reviews": "965",
+      "price": "US$ 19.70"
+    },
+    {
+      "title": "마카오 베네시안 곤돌라 탑승 체험",
+      "link": "https://www.klook.com/ko/activity/740-gondola-rides-at-the-venetian-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/kkpayz8f2udhmqu6sv5q.webp",
+      "type": "수상 액티비티 • 마카오",
+      "score": "4.5",
+      "reviews": "7218",
+      "price": "US$ 18.09"
+    },
+    {
+      "title": "마카오 일일 투어 (홍콩/마카오 출발)",
+      "link": "https://www.klook.com/ko/activity/89-sightsee-macau-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/kofhiskpxvenwtfxdoi6.webp",
+      "type": "투어 • 마카오",
+      "score": "4.5",
+      "reviews": "766",
+      "price": "US$ 83.39"
+    },
+    {
+      "title": "마카오 짚시티 티켓",
+      "link": "https://www.klook.com/ko/activity/84074-macau-zipcity/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/b5ymria83ke2upljf1fx.webp",
+      "type": "아웃도어 & 스포츠 • 마카오",
+      "score": "4.7",
+      "reviews": "331",
+      "price": "US$ 43.09"
+    },
+    {
+      "title": "파리지앵 마카오 에펠탑 전망대 입장권",
+      "link": "https://www.klook.com/ko/activity/4914-eiffel-tower-observation-deck-ticket-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/jqn6cxxhwnvidbin6ujc.webp",
+      "type": "전망대 • 마카오",
+      "score": "4.5",
+      "reviews": "2918",
+      "price": "US$ 9.70"
+    }
+  ],
   "가볼만한곳": [
     {
       "title": "마카오 타워",
       "link": "https://www.klook.com/ko/destination/p50295275-macau-tower/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/a0469063-Macau-Tower.webp",
+      "type": "명승지",
       "score": "4.9",
       "description": "마카오 타워에서 스릴과 아름다움을 경험해보세요. 마카오의 세에 위치한 이 거대한 랜드마크는 338m에 달하는 높이로 아름다운 전망을 제공합니다. 독특한 다이닝 경험, 쇼핑, 극장, 그리고 환상적인 스카이워크 X까지 즐길 수 있습니다. 이 상징적인 건물의 꼭대기에서 마카오의 최고를 발견하세요. 세계에서 가장 높은 번지 점프를 즐길 수 있는 마카오 타워에서 극한의 아드레날린을 경험해보세요. 233m 높이에서 뛰어내리며 마카오의 아름다운 전망을 즐기세요. 당신을 흥분시키고 더 많은 것을 원하게 만들어줄 잊지 못할 모험에 대비하세요!"
     },
     {
       "title": "베네시안 마카오",
       "link": "https://www.klook.com/ko/destination/p50189686-the-venetian-macao/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "마카오의 중심부에 위치한 베네시안 마카오에서 럭셔리와 우아함의 정수를 발견하세요. 라스베이거스의 자매 호텔을 모델로 한 이 고급 호텔 및 카지노 리조트는 세계 최대의 카지노이자 아시아 최대의 단일 구조 호텔로서 39층의 경이로움을 자랑합니다. 세계적인 엔터테인먼트, 정교한 다이닝, 그리고 비교할 수 없는 쇼핑 경험이 기다리고 있는 베네시안 마카오에서 잊지 못할 여정을 시작하세요. 문화 체험, 미식 탐방, 또는 단순히 호화로운 휴가를 원하든, 베네시안 마카오는 모든 여행자에게 무언가를 제공합니다. 화려한 스위트룸, 세계적인 수준의 편의 시설, 그리고 활기찬 분위기를 갖춘 베네시안 마카오는 휴식과 모험을 동시에 찾는 이들에게 완벽한 휴양지입니다."
     },
     {
       "title": "그랑프리 박물관",
       "link": "https://www.klook.com/ko/destination/p50082299-grand-prix-museum/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "박물관",
       "score": "4.9",
       "description": "그랜드프리 박물관 마카오의 스릴을 경험해보세요. 역동적이고 몰입적인 이곳은 모터스포츠의 역사와 문화를 살아있게 만들어줍니다. 그랜드프리 레이싱의 세계로 뛰어들어 상호작용하는 체험과 정보 전시를 통해 60년 이상의 모터스포츠 엑셀런스를 즐겨보세요. 아이르톤 세나와 같은 전설적인 드라이버들의 유산을 탐험하며 F1 레이싱의 긴장감 넘치는 설렘을 느껴보세요. 스포츠의 풍부한 역사를 축하하는 독특한 분위기에서 F1 레이싱의 설렘을 경험해보세요."
     },
     {
       "title": "쿤하 거리",
       "link": "https://www.klook.com/ko/destination/p50181072-rua-do-cunha/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "상업지구",
       "score": "4.9",
       "description": "마카오 타이파 빌리지의 중심에 자리 잡은 좁은 보행자 거리, 루아 두 쿠냐의 매력을 발견해보세요. 활기찬 분위기와 풍부한 문화유산으로 유명한 이 번화한 거리는 역사, 현지 요리, 쇼핑 경험이 어우러져 모든 여행자를 매료시킵니다. 타이파 빌리지의 중심에 위치한 루아 두 쿠냐는 팬데믹 이후 활기를 되찾았으며, 1983년부터 도시 최초의 보행자 구역으로 자리 잡았습니다. 이 먹거리 거리는 현지 길거리 음식, 상점, 노점상으로 가득 차 있어 처음 방문하는 여행자들이 신선한 간식을 즐기고 현지 문화를 체험하기에 꼭 방문해야 할 곳입니다. 마카오 시내에서 쉽게 접근할 수 있는 루아 두 쿠냐는 미각을 사로잡는 즐거운 미식 모험을 제공합니다."
     },
     {
       "title": "마카오 과학관",
       "link": "https://www.klook.com/ko/destination/p50218973-macao-science-center/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "박물관",
       "score": "4.9",
       "description": "마카오 과학 센터에 오신 것을 환영합니다. 이곳은 현대 기술과 풍부한 문화 유산을 결합한 매혹적인 여행지입니다. 이 독특한 센터에서 과학과 역사의 경이로움을 탐험해보세요. 마카오의 세에 위치한 혁신적인 과학 센터를 발견해보세요. 이 바다 옆의 랜드마크는 독특한 비대칭 원뿔 모양과 상호작용하는 전시물로 과학 교육과 탐험을 제공합니다. 활기찬 마카오 SAR 중국에 자리한 혁신적인 교육 및 문화 시설인 마카오 과학 센터의 경이로움을 발견해보세요. 이 첨단 목적지에서 혁신과 지식의 세계에 몰입하세요. 이 특별 행정 구역의 게이트웨이에 편리하게 위치한 이 곳에서 즐거운 시간을 보내세요."
     },
     {
       "title": "브로드웨이 마카오",
       "link": "https://www.klook.com/ko/destination/p50197445-broadway-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/216a83f3-Golden-Reel-Ferris-Wheel-Macau.webp",
+      "type": "명승지",
       "score": "4.9",
       "description": "브로드웨이 마카오에서 활기찬 첫 번째 브로드웨이 푸드 & 크래프트 페스티벌이 2023년 10월 8일까지 진행 중입니다. 1950년대 테마의 장식, 라이브 공연, 그리고 마카오의 최고의 길거리 음식과 지역 공예품을 전시한 이 행사는 야간 경제를 촉진하고 독특한 문화 경험을 제공합니다. 갤럭시 마카오에서 잊지 못할 여행을 떠나보세요. 럭셔리, 엔터테인먼트, 그리고 세계적인 경험으로 여러분을 매혹시키고 활력을 불어넣을 것입니다. 아시아 문화와 현대적인 편의시설이 조화를 이룬 강변 호텔인 브로드웨이 마카오의 활기찬 에너지를 경험해보세요. 미쉐린 스타 레스토랑을 비롯한 40여 개의 지역 마카오와 '마카오 최초' 아시아 음식 브랜드에서 즐기세요. 2,500석의 브로드웨이 극장에서의 길거리 공연과 세계적인 쇼를 즐기며 여행을 잊지 못할 추억으로 만들어보세요."
     },
     {
       "title": "마카오 피셔맨즈 워프",
       "link": "https://www.klook.com/ko/destination/p50242542-macau-fishermans-wharf/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "레스토랑",
       "score": "4.9",
       "description": "마카오에서 잊지 못할 유럽 문화를 만나보세요! 마카오 외항에 자리한 마카오 피셔맨스 워프는 마카오 반도에서 가장 큰 레저 및 테마 엔터테인먼트 복합체로, 다른 곳에서는 느낄 수 없는 최고의 다이닝, 엔터테인먼트 및 관광 경험을 약속합니다."
     },
     {
       "title": "세나도 광장",
       "link": "https://www.klook.com/ko/destination/p50230132-senado-square/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "마카오 세나도 광장은 마카오 세의 중심부에 위치한 활기차고 역사적인 광장입니다. 유네스코 세계문화유산인 마카오 역사 지구의 일부로, 이 상징적인 장소는 중국과 포르투갈 문화가 독특하게 어우러져 있어 풍부한 문화 체험을 원하는 여행자들에게 꼭 방문해야 할 곳입니다. 세나도 광장, 또는 라르고 두 세나도는 마카오 역사 지구에 위치한 3,700제곱미터의 매력적인 공공 광장입니다. 인상적인 외관, 물결 모양의 모자이크 바닥, 그리고 돼지갈비 빵과 같은 현지 요리의 유혹적인 향기로 가득한 이 활기찬 광장은 감각적인 즐거움을 선사합니다. 세나도 광장을 방문하면 포르투갈과 중국 문화의 영향을 동시에 느낄 수 있는 시간 여행을 경험할 수 있습니다. 마카오 반도의 중심부에 위치한 가장 유명한 '해양 광장'인 세나도 광장은 전 세계 여행자들에게 매력적인 장소입니다. 물결 모양의 타일 패턴과 활기찬 분위기로 유명한 이 상징적인 광장은 문화적, 역사적 중요성을 독특하게 결합하여 여행자들에게 매력적인 장소로 자리 잡고 있습니다."
     },
     {
       "title": "송산케이블카",
       "link": "https://www.klook.com/ko/destination/p60271325-guia-hill-cable-car/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "Guia Hill Cable Car Macau는 매혹적인 전망과 풍부한 역사를 경험할 수 있는 숨겨진 보석입니다. 이 곳은 도시의 역사, 문화 및 풍경을 유니크하게 결합한 매우 특별한 곳으로, 마카오 반도의 가장 높은 지점인 Guia Hill Cable Car를 연결하여 Jardim da Flora와 Parque Municipal da Colina da Guia를 연결합니다. 1997년에 개장된 이 관광지는 정원의 조망과 마카오의 과거 및 전략적 중요성을 엿볼 수 있는 기회를 제공합니다."
     },
     {
       "title": "강공야시장",
       "link": "https://www.klook.com/ko/destination/p60271328-hong-kung-night-market/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "상업지구",
       "score": "4.9",
       "description": "홍콩 나이트 마켓 마카오의 활기찬 에너지와 문화적 풍부함을 경험해보세요. 이 곳은 역사, 요리, 그리고 엔터테인먼트가 독특하게 어우러진 붐비는 여행지로, 중국 인민 공화국의 특별행정구역 속으로 뛰어들어보세요. 홍콩보다 더 저렴한 가격으로 고급품목을 살 수 있는 마카오의 다채로운 쇼핑 문화를 경험해보세요. 24금 보석부터 중국 고미술품까지, 마카오는 독특한 쇼핑 경험의 보물창고를 제공합니다. 붐비는 벼룩시장, 야시장, 문화 클럽을 탐험하여 숨겨진 보물을 발견하고 이 여행지의 풍부한 역사와 문화에 몰입해보세요."
     },
     {
       "title": "10월 5일의 거리",
       "link": "https://www.klook.com/ko/destination/p60271322-rua-de-cinco-de-outubro/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "거리",
       "score": "4.9",
       "description": "마카오의 오뚜로 다오 거리는 풍부한 역사, 활기찬 문화, 현대적인 명소가 조화롭게 어우러진 매력적인 여행지입니다. 이 매력적인 거리는 마카오의 과거를 엿볼 수 있는 독특한 경험을 제공하면서 다양한 활동과 볼거리를 탐험할 수 있는 기회를 제공합니다. 역사 애호가, 음식 애호가, 현지 분위기를 만끽하고 싶은 이들에게 모두 무언가를 제공하는 곳입니다. 마카오의 과거와 현재를 경험하고 싶은 여행객들에게 완벽한 장소인 마카오의 오뚜로 다오 거리의 매력을 발견해보세요. 문화 유산, 역사적인 명소, 입맛 돋우는 현지 요리가 조화롭게 어우러진 활기찬 거리인 오뚜로 다오 거리의 매력을 만나보세요. 아름답게 그려진 건물과 매력적인 벽화가 인상적인 사진의 배경을 제공합니다."
     },
     {
       "title": "세인트 폴 교회 유적",
       "link": "https://www.klook.com/ko/destination/p60232861-ruins-of-the-church-of-st-paul/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "관광 명소",
       "score": "4.8",
       "description": "마카오 중심부에 자리 잡은 매혹적인 역사적 명소, 성 바울 성당 유적의 매력을 발견해보세요. 이 상징적인 장소는 웅장한 석조 외관과 풍부한 역사를 자랑하며, 동서양 문화가 독특하게 융합된 마카오의 모습을 보여줍니다. 세계 7대 포르투갈 기원 유적 중 하나로, 마카오를 정의하는 다양한 영향의 융합을 엿볼 수 있는 특별한 기회를 제공합니다. 역사 애호가, 건축 애호가, 또는 단순히 호기심 많은 여행자라면, 성 바울 성당 유적은 그 유구한 역사와 건축의 웅장함을 탐험하도록 초대합니다. 이 활기찬 도시를 여행하는 동안 놓칠 수 없는 목적지입니다."
     }
@@ -77,6 +211,7 @@
     {
       "title": "스튜디오 시티",
       "link": "https://www.klook.com/ko/hotels/detail/566638-studio-city/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1699868107/hotel/rrlll0rhkgt0uizqv0zq.webp",
       "score": "4.8",
       "reviews": "1415",
       "price": "US$ 108.69"
@@ -84,6 +219,7 @@
     {
       "title": "더 파리지앵 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/585248-the-parisian-macao/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1653279343/hotel/w9s08vosnot3qwnk31hj.webp",
       "score": "4.7",
       "reviews": "1626",
       "price": "US$ 106.69"
@@ -91,6 +227,7 @@
     {
       "title": "베네시안 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/585242-the-venetian-macao/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1653294051/hotel/uxkw7v5cjdxuopsuogfv.webp",
       "score": "4.7",
       "reviews": "1115",
       "price": "US$ 154.02"
@@ -98,6 +235,7 @@
     {
       "title": "그랜드 리스보아 팰리스 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/783446-grand-lisboa-palace-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1752051358/hotel/rnsavxojetx9hpafccgw.webp",
       "score": "4.6",
       "reviews": "897",
       "price": "US$ 135.44"
@@ -105,6 +243,7 @@
     {
       "title": "호텔 로열 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/283411-hotel-royal-macau/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1647397588/hotel/ic9xy6ihf5hfwdzimftb.webp",
       "score": "4.4",
       "reviews": "1185",
       "price": "US$ 57.57"
@@ -112,6 +251,7 @@
     {
       "title": "하버뷰 호텔 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/571308-harbourview-hotel-macau/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/s5hb/giata/bigger/44/442831/442831a_hb_l_002.webp",
       "score": "4.4",
       "reviews": "1238",
       "price": "US$ 62.31"
@@ -119,20 +259,15 @@
     {
       "title": "리스보에타 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/947786-lisboeta-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/58000000/57300000/57293700/57293654/4f2e3bb6_z.webp",
       "score": "4.3",
       "reviews": "688",
       "price": "US$ 74.05"
     },
     {
-      "title": "YOHO Treasure Island Hotel",
-      "link": "https://www.klook.com/ko/hotels/detail/1266673-yoho-treasure-island-hotel/",
-      "score": "4.4",
-      "reviews": "227",
-      "price": "US$ 79.03"
-    },
-    {
       "title": "허우 콩 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/276805-hou-kong-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/16000000/15140000/15139600/15139563/68fd0534_z.webp",
       "score": "4.2",
       "reviews": "477",
       "price": "US$ 34.87"
@@ -140,125 +275,101 @@
     {
       "title": "브로드웨이 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/278692-broadway-hotel/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/v1707290286/hotel/dvaqjrtjgyy0l5emagus.webp",
       "score": "4.7",
       "reviews": "1044",
       "price": "US$ 78.22"
     },
     {
+      "title": "YOHO Treasure Island Hotel",
+      "link": "https://www.klook.com/ko/hotels/detail/1266673-yoho-treasure-island-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/s10akd/1mc6k12000h43v86v3501.webp",
+      "score": "4.4",
+      "reviews": "227",
+      "price": "US$ 79.03"
+    },
+    {
       "title": "그랜드뷰 호텔 마카오",
       "link": "https://www.klook.com/ko/hotels/detail/255078-grandview-hotel-macau/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/2000000/1050000/1042400/1042400/81166f8e_z.webp",
       "score": "4.3",
       "reviews": "1106",
       "price": "US$ 54.02"
     },
     {
-      "title": "알티라 마카오",
-      "link": "https://www.klook.com/ko/hotels/detail/257711-altira-macau/",
-      "score": "4.8",
-      "reviews": "538",
-      "price": "US$ 121.61"
+      "title": "런던 호텔",
+      "link": "https://www.klook.com/ko/hotels/detail/265649-london-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/s2pix8/hotelImages/31878318/-1/446ce485a8ddc48e2fbe33d266adb76e.webp",
+      "score": "4.7",
+      "reviews": "1327",
+      "price": "US$ 43.42"
     }
   ],
   "인기순위": [
     {
       "rank": "1",
-      "title": "마카오 타워",
-      "link": "https://www.klook.com/ko/destination/p50295275-macau-tower/"
-    },
-    {
-      "rank": "2",
-      "title": "베네시안 마카오",
-      "link": "https://www.klook.com/ko/destination/p50189686-the-venetian-macao/"
-    },
-    {
-      "rank": "3",
-      "title": "그랑프리 박물관",
-      "link": "https://www.klook.com/ko/destination/p50082299-grand-prix-museum/"
-    },
-    {
-      "rank": "4",
-      "title": "쿤하 거리",
-      "link": "https://www.klook.com/ko/destination/p50181072-rua-do-cunha/"
-    },
-    {
-      "rank": "5",
-      "title": "마카오 과학관",
-      "link": "https://www.klook.com/ko/destination/p50218973-macao-science-center/"
-    },
-    {
-      "rank": "6",
-      "title": "브로드웨이 마카오",
-      "link": "https://www.klook.com/ko/destination/p50197445-broadway-macau/"
-    },
-    {
-      "rank": "7",
-      "title": "마카오 피셔맨즈 워프",
-      "link": "https://www.klook.com/ko/destination/p50242542-macau-fishermans-wharf/"
-    },
-    {
-      "rank": "8",
-      "title": "세나도 광장",
-      "link": "https://www.klook.com/ko/destination/p50230132-senado-square/"
-    },
-    {
-      "rank": "9",
-      "title": "송산케이블카",
-      "link": "https://www.klook.com/ko/destination/p60271325-guia-hill-cable-car/"
-    },
-    {
-      "rank": "10",
-      "title": "강공야시장",
-      "link": "https://www.klook.com/ko/destination/p60271328-hong-kung-night-market/"
-    },
-    {
-      "rank": "11",
-      "title": "10월 5일의 거리",
-      "link": "https://www.klook.com/ko/destination/p60271322-rua-de-cinco-de-outubro/"
-    },
-    {
-      "rank": "12",
-      "title": "세인트 폴 교회 유적",
-      "link": "https://www.klook.com/ko/destination/p60232861-ruins-of-the-church-of-st-paul/"
-    },
-    {
-      "rank": "13",
       "title": "타이파 주택 박물관",
       "link": "https://www.klook.com/ko/destination/p50082325-taipa-houses/"
     },
     {
-      "rank": "14",
+      "rank": "2",
       "title": "식 파이 반 공원",
       "link": "https://www.klook.com/ko/destination/p50167794-seac-pai-van-park/"
     },
     {
-      "rank": "15",
+      "rank": "3",
       "title": "콜로안 부두",
       "link": "https://www.klook.com/ko/destination/p60271319-coloane-pier/"
     },
     {
-      "rank": "16",
+      "rank": "4",
       "title": "아마 사원",
       "link": "https://www.klook.com/ko/destination/p50178008-a-ma-temple/"
     },
     {
-      "rank": "17",
+      "rank": "5",
       "title": "아마 문화촌",
       "link": "https://www.klook.com/ko/destination/p50132792-a-ma-cultural-village/"
     },
     {
-      "rank": "18",
+      "rank": "6",
       "title": "기아 요새",
       "link": "https://www.klook.com/ko/destination/p50132799-guia-fortress-and-lighthouse/"
     },
     {
-      "rank": "19",
+      "rank": "7",
       "title": "얼롱허우 공원",
       "link": "https://www.klook.com/ko/destination/p60271330-flora-garden/"
     },
     {
-      "rank": "20",
+      "rank": "8",
       "title": "연화광장",
       "link": "https://www.klook.com/ko/destination/p50163866-lotus-square/"
+    },
+    {
+      "rank": "9",
+      "title": "러브레인",
+      "link": "https://www.klook.com/ko/destination/p60271323-travessa-da-paixao/"
+    },
+    {
+      "rank": "10",
+      "title": "푸롱 뉴 스트리트",
+      "link": "https://www.klook.com/ko/destination/p60271327-rua-da-felicidade/"
+    },
+    {
+      "rank": "11",
+      "title": "노가대옥",
+      "link": "https://www.klook.com/ko/destination/p60271326-lou-kau-mansion/"
+    },
+    {
+      "rank": "12",
+      "title": "흰비둘기둥지 앞",
+      "link": "https://www.klook.com/ko/destination/p60271324-camoes-square/"
+    },
+    {
+      "rank": "13",
+      "title": "루 림 록 정원",
+      "link": "https://www.klook.com/ko/destination/p60232196-lou-lim-ieoc-garden/"
     }
   ]
 }

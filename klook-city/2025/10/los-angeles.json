@@ -1,74 +1,208 @@
 {
+  "액티비티": [
+    {
+      "title": "캘리포니아 LA 디즈니랜드 리조트 티켓",
+      "link": "https://www.klook.com/ko/activity/4100-disneyland-park-disney-california-adventure-park-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/peeq5krbt761a7fmjw1v.webp",
+      "type": "테마파크 • 애너하임",
+      "score": "4.8",
+      "reviews": "5894",
+      "price": "US$ 102.95"
+    },
+    {
+      "title": "유니버설 스튜디오 할리우드 티켓",
+      "link": "https://www.klook.com/ko/activity/4099-universal-studios-hollywood-ticket-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/sirfqikjzhub3fro2of7.webp",
+      "type": "테마파크 • 로스앤젤레스",
+      "score": "4.9",
+      "reviews": "5478",
+      "price": "US$ 77.00"
+    },
+    {
+      "title": "LA 빅버스 로스앤젤레스 시티투어",
+      "link": "https://www.klook.com/ko/activity/87072-los-angeles-big-bus-hop-on-hop-off-tours/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/uaev9qqn28ti0tzasyry.webp",
+      "type": "투어 • 로스앤젤레스",
+      "score": "4.3",
+      "reviews": "106",
+      "price": "US$ 56.00"
+    },
+    {
+      "title": "LA 유니버설 스튜디오 할리우드 할로윈 호러 나이트 입장권",
+      "link": "https://www.klook.com/ko/activity/14012-halloween-horror-nights-ticket-universal-studios-hollywood-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/j7b4ocpcsxmlaqefvoec.webp",
+      "type": "테마파크 • 로스앤젤레스",
+      "score": "4.8",
+      "reviews": "50",
+      "price": "US$ 77.00"
+    },
+    {
+      "title": "로스엔젤레스 최고의 반나절 관광 투어",
+      "link": "https://www.klook.com/ko/activity/117588-los-angeles-half-day-tour/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/awlhtkrj2jkddct5cnyr.webp",
+      "type": "투어 • 로스앤젤레스",
+      "score": "4.8",
+      "reviews": "45",
+      "price": "US$ 84.00"
+    },
+    {
+      "title": "로스엔젤레스 그랜드 버스 투어 (종일)",
+      "link": "https://www.klook.com/ko/activity/139713-full-day-grand-bus-tour-in-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/wv5lgsr0582pcmhw5f2z.webp",
+      "type": "투어 • 로스앤젤레스 출발",
+      "score": "4.7",
+      "reviews": "15",
+      "price": "US$ 95.00"
+    },
+    {
+      "title": "로스앤젤레스 자연사 박물관 입장권",
+      "link": "https://www.klook.com/ko/activity/129401-natural-history-museum-ticket-in-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/zjl5dktp9fhxahrpubi2.webp",
+      "type": "박물관 & 미술관 • 로스앤젤레스",
+      "score": "4.5",
+      "reviews": "8",
+      "price": "US$ 18.00"
+    },
+    {
+      "title": "LA 할리우드 마담투소 입장권",
+      "link": "https://www.klook.com/ko/activity/4101-madame-tussauds-hollywood-ticket-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/lmj3rqmlyg8werkpzrai.webp",
+      "type": "박물관 & 미술관 • 로스앤젤레스",
+      "score": "4.7",
+      "reviews": "104",
+      "price": "US$ 26.09"
+    },
+    {
+      "title": "로스엔젤레스 할리우드, 그리피스 천문대, 시티 & 해변 투어",
+      "link": "https://www.klook.com/ko/activity/91386-los-angeles-hollywood-city-half-day-tour/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/bl6azmeuu5lbh2ylfasc.webp",
+      "type": "투어 • 로스앤젤레스 출발",
+      "score": "3.9",
+      "reviews": "11",
+      "price": "US$ 65.80"
+    },
+    {
+      "title": "로스엔젤레스 할리우드 사인 익스프레스 워킹 투어",
+      "link": "https://www.klook.com/ko/activity/115220-the-official-hollywood-sign-express-walking-tour-in-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/b5xbrt0gdbxu216jkhtu.webp",
+      "type": "투어 • 로스앤젤레스",
+      "score": "5.0",
+      "reviews": "8",
+      "price": "US$ 19.00"
+    },
+    {
+      "title": "로스엔젤레스 웨스트 하버 출발 돌고래 & 고래 관찰 투어",
+      "link": "https://www.klook.com/ko/activity/162282-whale-watching-and-dolphin-tour-from-west-harbor-los-angeles/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/fktodse7ziv86okujhig.webp",
+      "type": "아웃도어 & 스포츠 • 로스앤젤레스",
+      "score": "",
+      "reviews": "",
+      "price": "US$ 31.49"
+    },
+    {
+      "title": "클룩 로스앤젤레스 패스",
+      "link": "https://www.klook.com/ko/activity/71134-los-angeles-attractions-pass/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/uniwznr6cscnbwcey4vc.webp",
+      "type": "어트랙션 패스 • 로스앤젤레스",
+      "score": "4.3",
+      "reviews": "69",
+      "price": "US$ 104.00"
+    }
+  ],
   "가볼만한곳": [
     {
       "title": "그리피스 천문대",
       "link": "https://www.klook.com/ko/destination/p50128070-griffith-observatory/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/fadbbjoi0tjsm6nz3hg7.webp",
+      "type": "박물관",
       "score": "4.8",
       "description": "그리피스 천문대에서 천체 여행을 떠나보세요. 남부 캘리포니아의 천문학 명소 중에서도 보석 같은 이곳은 할리우드 산 남쪽 경사면에 자리 잡고 있으며, 우주의 경이로움을 탐험할 수 있는 관문 역할을 합니다. 우주에 열정적인 애호가든, 단순히 경치 좋은 곳을 찾고 있든, 그리피스 천문대는 과학, 역사, 그리고 멋진 경관이 어우러진 매력적인 장소입니다. 무료 입장으로 누구나 쉽게 방문할 수 있으며, 로스앤젤레스의 숨막히는 전경을 감상하며 하늘의 신비를 생각해볼 수 있는 완벽한 장소입니다. 도보, 자전거, 버스, 자동차 등 어떤 방법으로든 그리피스 천문대를 방문하는 것은 로스앤젤레스 여행 일정에서 필수적인 경험입니다."
     },
     {
       "title": "할리우드",
       "link": "https://www.klook.com/ko/destination/p50001641-hollywood/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/bk0iits1simga5gpmw1k.webp",
+      "type": "지리적 구역",
       "score": "4.8",
       "description": "할리우드에 오신 것을 환영합니다! 로스앤젤레스의 화려한 중심지인 이곳은 꿈이 현실로 이루어지는 곳입니다. '틴셀타운'으로도 알려진 할리우드는 미국 영화 산업의 중심지로, 역사와 문화, 그리고 엔터테인먼트가 가득한 활기찬 여행지입니다. 영화 팬이라면 상징적인 랜드마크를 탐험하고, 음악 애호가라면 활기찬 문화를 즐기며, 화려함을 만끽하고 싶다면 할리우드에서 특별한 경험을 할 수 있습니다. 할리우드 명예의 거리 위에 위치한 상징적인 호텔, 할리우드 루즈벨트에서 할리우드의 매력을 느껴보세요. 이 역사적인 호텔은 마릴린 먼로, 찰리 채플린, 클라크 게이블과 같은 전설적인 스타들이 머물렀던 곳으로, 고전 할리우드를 현대적으로 해석한 경험을 제공합니다. 로스앤젤레스의 중심에서 각 코너마다 이야기가 펼쳐지고, 방문할 때마다 나만의 영화 같은 모험을 만들어 보세요."
     },
     {
       "title": "할리우드 스타 명예의 전당",
       "link": "https://www.klook.com/ko/destination/p50044355-hollywood-walk-of-fame/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/uxnxbjperphmmjuhyjob.webp",
+      "type": "명승지",
       "score": "4.8",
       "description": "할리우드 명예의 거리(Hollywood Walk of Fame)는 로스앤젤레스 할리우드 중심부에 위치한 상징적인 명소로, 엔터테인먼트 산업의 화려함과 매력을 담고 있습니다. 할리우드 대로와 바인 스트리트에 걸쳐 2,800개 이상의 별이 인도에 새겨져 있는 이 세계적으로 유명한 장소는 업계 최고의 스타들의 업적을 기념합니다. 매년 수백만 명의 방문객이 이곳을 찾아 자신이 좋아하는 유명인들의 이름을 따라 걷고자 합니다. 할리우드 내부자든 처음 방문하는 사람이든, 이 필수 명소는 영화, TV, 유명인 문화를 사랑하는 누구에게나 할리우드의 마법을 맛볼 수 있는 매력적인 경험을 제공합니다."
     },
     {
       "title": "크립토닷컴 아레나",
       "link": "https://www.klook.com/ko/destination/p50339087-crypto-com-arena/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "경기장",
       "score": "4.9",
       "description": "Crypto.com 아레나에 오신 것을 환영합니다. 로스앤젤레스 다운타운의 활기찬 중심부에 위치한 이곳은 최고의 엔터테인먼트 명소입니다. 이전에는 스테이플스 센터로 알려졌던 이 세계적으로 유명한 다목적 실내 아레나는 스포츠, 음악, 문화 행사의 중심지로, 전 세계에서 방문객을 끌어모으고 있습니다. 짜릿한 경기를 관람하고 싶은 스포츠 팬이든, 전율을 느낄 수 있는 콘서트를 기대하는 음악 애호가든, 매혹적인 아이스 쇼와 특별 이벤트에 몰입하고 싶은 문화 탐험가든, Crypto.com 아레나는 잊을 수 없는 경험을 약속합니다. 풍부한 역사와 활기찬 분위기를 자랑하는 이 상징적인 장소는 로스앤젤레스의 역동적인 도시를 탐험하는 모든 이에게 꼭 방문해야 할 곳입니다. Crypto.com 아레나에서 엔터테인먼트와 문화의 축제에 함께하세요."
     },
     {
       "title": "그리스 극장",
       "link": "https://www.klook.com/ko/destination/p50127839-greek-theatre/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "로스앤젤레스의 그리피스 파크 중심에 자리 잡은 그릭 시어터는 1930년대부터 관객들을 매료시켜 온 매력적인 야외 공연장입니다. 아름다운 자연 환경과 풍부한 역사를 자랑하는 이 상징적인 원형극장은 세계 각지에서 방문객들을 불러 모아 별빛 아래에서 세계적인 공연을 즐길 수 있게 합니다. 고대 그리스 건축에서 영감을 받은 독특한 디자인과 현대적인 엔터테인먼트가 어우러진 그릭 시어터는 음악 애호가와 문화 애호가 모두에게 잊지 못할 경험을 선사합니다. 현지인이나 관광객 모두에게 꼭 방문해야 할 이곳은 로스앤젤레스에서 가장 아름다운 장소 중 하나에서 마법 같은 저녁을 제공합니다."
     },
     {
       "title": "죽음의 박물관",
       "link": "https://www.klook.com/ko/destination/p60201937-museum-of-death/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "관광 명소",
       "score": "4.9",
       "description": "캘리포니아 할리우드 중심부에 자리 잡은 독특한 명소, 죽음의 박물관의 오싹하고 매혹적인 세계로 들어오세요. 이 특별한 박물관은 공포 애호가와 기괴한 것에 매료된 사람들을 사로잡으며, 인간 역사와 문화의 어두운 측면을 독보적으로 엿볼 수 있는 기회를 제공합니다. 비범한 것에 대한 호기심이 있거나 역사 속 어두운 면에 대한 관심이 있다면, 죽음의 박물관은 반드시 방문해야 할 명소로, 기괴한 탐험을 약속합니다."
     },
     {
       "title": "다저 스타디움",
       "link": "https://www.klook.com/ko/destination/p50048685-dodger-stadium/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "경기장",
       "score": "4.9",
       "description": "로스앤젤레스의 중심부에 자리 잡은 전설적인 야구장, 다저 스타디움에 오신 것을 환영합니다. '지상의 푸른 천국'으로 알려진 이 상징적인 장소는 단순한 스포츠 경기장이 아니라 수많은 역사적인 야구 순간을 목격한 문화적 랜드마크입니다. 로스앤젤레스 시내와 산 가브리엘 산맥의 숨막히는 전망을 자랑하는 다저 스타디움은 스포츠 애호가와 역사 애호가 모두에게 잊을 수 없는 경험을 제공합니다. 상징적인 전망과 활기찬 분위기로 유명한 이 전설적인 야구장은 스포츠, 역사, 문화를 결합한 잊지 못할 경험을 제공합니다. 야구 애호가든 독특한 경험을 찾는 여행자든, 다저 스타디움은 방문할 가치가 있는 목적지로, 여러분을 매료시키고 영감을 줄 것입니다."
     },
     {
       "title": "레이크 할리우드 공원",
       "link": "https://www.klook.com/ko/destination/p60217405-lake-hollywood-park/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "관광 명소",
       "score": "4.9",
       "description": "상징적인 할리우드 힐스에 자리 잡은 레이크 할리우드 파크는 전설적인 할리우드 사인의 숨막히는 전망과 함께 평화로운 휴식을 제공합니다. 이 푸르른 오아시스는 로스앤젤레스 중심에서 휴식, 레크리에이션, 잊지 못할 순간을 포착하기에 완벽한 장소입니다. 번잡한 도시 생활 속 숨겨진 보석으로서, 평온함과 아름다운 경치를 찾는 이들에게 평화로운 피난처를 제공합니다. 현지인이나 관광객 모두 레이크 할리우드 파크에서 자연의 아름다움과 로스앤젤레스를 독특하게 만드는 상징적인 랜드마크를 즐기며 휴식을 취해보세요."
     },
     {
       "title": "할리우드 블러바드",
       "link": "https://www.klook.com/ko/destination/p60186238-hollywood-boulevard/",
+      "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_869/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/xrwpzjro9zy3eg2auy6o/LosAngelesIconicLandmarksPrivateTour.webp",
+      "type": "관광 명소",
       "score": "4.9",
       "description": "할리우드 대로에 오신 것을 환영합니다. 이곳은 세계 엔터테인먼트의 수도인 캘리포니아 로스앤젤레스의 전설적인 거리로, 할리우드 명예의 거리와 스타들이 빛나는 보도로 유명합니다. 과거와 현재의 엔터테인먼트 세계가 만나는 이 활기찬 중심지는 역사, 문화, 현대적인 매력을 독특하게 조화시켜 고전 할리우드의 화려함을 경험하고자 하는 모든 이들에게 꼭 방문해야 할 명소입니다. 활기찬 분위기와 다채로운 문화적 장면으로 전 세계 방문객들이 할리우드의 풍부한 역사와 역동적인 현재에 매료되기 위해 이곳을 찾습니다."
     },
     {
       "title": "로스앤젤레스 건 클럽",
       "link": "https://www.klook.com/ko/destination/p60280931-the-los-angeles-gun-club/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "관광 명소",
       "score": "4.9",
       "description": "로스앤젤레스 중심부에 위치한 최고급 사격장, 로스앤젤레스 건 클럽에서 정밀함과 파워의 스릴을 경험해보세요. 이 독특한 장소는 숙련된 사수와 호기심 많은 초보자 모두에게 흥미진진한 실탄 사격 경험을 제공합니다. 다양한 총기 대여와 안전에 대한 확고한 약속으로, 로스앤젤레스 건 클럽은 기술을 연마하거나 새로운 것을 시도하기에 완벽한 장소입니다. 총기 애호가든 호기심 많은 여행자든, 이 시설은 로스앤젤레스의 번화한 도시에서 독특하고 잊지 못할 모험을 약속합니다."
     },
     {
       "title": "LA 도심",
       "link": "https://www.klook.com/ko/destination/p60271905-downtown-la/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "상업지구",
       "score": "4.9",
       "description": "다운타운 로스앤젤레스(DTLA)에 오신 것을 환영합니다. 이곳은 도시의 활기찬 중심지이자 중앙 비즈니스 지구로, 5.84제곱마일의 면적을 자랑합니다. 문화, 역사, 현대적 매력이 어우러진 이곳은 모든 여행자에게 꼭 방문해야 할 명소입니다. 역사 애호가, 미식가, 예술 애호가 모두에게 잊지 못할 경험을 선사하는 DTLA는 힙하고 역사적인 매력을 지니고 있으며, 트렌디한 레스토랑, 문화 명소, 저렴한 쇼핑, 메이저 리그 스포츠를 제공합니다. 메트로로 쉽게 접근할 수 있으며, 로스앤젤레스에서 가장 보행자 친화적인 도시 지역 중 하나로 알려진 DTLA는 정기적인 아트 워크와 거리 축제와 같은 다양한 문화 행사로 끊임없이 변화하고 있습니다. 실내외 시장, 힙한 부티크, 팝업 스토어 등 혁신적인 비즈니스를 발견하며 이 도시 중심의 활기찬 분위기를 느껴보세요. 다운타운 LA의 분주한 거리를 탐험하며 옛것과 새것이 조화롭게 어우러진 독특한 매력을 만끽해보세요."
     },
     {
       "title": "엘리시안 공원",
       "link": "https://www.klook.com/ko/destination/p60272220-elysian-park/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "공원",
       "score": "4.9",
       "description": "로스앤젤레스의 중심부에 자리 잡은 엘리시안 파크는 번잡한 도시 생활에서 벗어나 자연의 아름다움과 문화 유산이 어우러진 고요한 휴식처입니다. 이 도시에서 가장 오래되고 큰 공원 중 하나로, 약 600에이커의 푸른 녹지를 자랑하며 자연 애호가, 역사 애호가, 야외 모험가 모두에게 안식처를 제공합니다. 파노라마 뷰와 생동감 넘치는 풍경으로 유명한 엘리시안 파크는 프랭크 글래스와 그레이스 E. 사이먼스를 기리는 피터 샤이어의 설치 예술과 같은 매혹적인 예술 작품도 만날 수 있습니다. 평화로운 휴식을 원하든 모험 가득한 하루를 원하든, 엘리시안 파크는 잊지 못할 경험을 약속하며 로스앤젤레스의 활기찬 도시를 탐험하는 모든 이에게 꼭 방문해야 할 명소입니다."
     }
@@ -77,55 +211,47 @@
     {
       "title": "하얏트 리젠시 로스앤젤레스 인터네셔널 에어포트",
       "link": "https://www.klook.com/ko/hotels/detail/260521-hyatt-regency-los-angeles-international-airport/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/s10akd/20010g000000862cc5FAD.webp",
       "score": "4.3",
       "reviews": "3350",
       "price": "US$ 196.37"
     },
     {
-      "title": "더 혹스턴 다운타운 LA",
-      "link": "https://www.klook.com/ko/hotels/detail/283772-the-hoxton-downtown-la/",
-      "score": "4.6",
-      "reviews": "943",
-      "price": "US$ 138.49"
+      "title": "더 라인 호텔",
+      "link": "https://www.klook.com/ko/hotels/detail/427923-the-line-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/20000/14000/13944/4bd42511_z.webp",
+      "score": "3.9",
+      "reviews": "1260",
+      "price": "US$ 120.60"
     },
     {
       "title": "시티즌엠 로스앤젤레스 다운타운",
       "link": "https://www.klook.com/ko/hotels/detail/721783-citizenm-los-angeles-downtown/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/66000000/65300000/65299600/65299564/77c265db_z.webp",
       "score": "4.6",
       "reviews": "2854",
       "price": "US$ 144.09"
     },
     {
-      "title": "더 가드프리 호텔 할리우드",
-      "link": "https://www.klook.com/ko/hotels/detail/401104-the-godfrey-hotel-hollywood/",
-      "score": "4.1",
-      "reviews": "1892",
-      "price": "US$ 99.65"
-    },
-    {
-      "title": "더 라인 호텔",
-      "link": "https://www.klook.com/ko/hotels/detail/427923-the-line-hotel/",
-      "score": "3.9",
-      "reviews": "1260",
-      "price": "US$ 120.77"
-    },
-    {
-      "title": "헐리우드 히스토릭 호텔",
-      "link": "https://www.klook.com/ko/hotels/detail/275252-hollywood-historic-hotel/",
-      "score": "4.4",
-      "reviews": "820",
-      "price": "US$ 118.06"
-    },
-    {
       "title": "로우스 할리우드 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/262955-loews-hollywood-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/800000/790200/790158/8e7716ba_z.webp",
       "score": "4.5",
       "reviews": "3929",
       "price": "US$ 222.83"
     },
     {
+      "title": "힐튼 가든 인 로스 앤젤레스/할리우드",
+      "link": "https://www.klook.com/ko/hotels/detail/488002-hilton-garden-inn-los-angeleshollywood/",
+      "image": "https://i.travelapi.com/lodging/1000000/430000/423400/423323/fae637ee_z.jpg",
+      "score": "4.0",
+      "reviews": "957",
+      "price": "US$ 166.39"
+    },
+    {
       "title": "E-센트럴 다운타운 로스엔젤레스 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/276832-ecentral-downtown-los-angeles-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/10000/4000/3952/f573b858_z.webp",
       "score": "4.3",
       "reviews": "2146",
       "price": "US$ 142.11"
@@ -133,30 +259,50 @@
     {
       "title": "할리우드 셀러브리티 호텔",
       "link": "https://www.klook.com/ko/hotels/detail/263087-hollywood-celebrity-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/10000/3900/3879/d093e881_z.webp",
       "score": "4.5",
       "reviews": "935",
       "price": "US$ 156.05"
     },
     {
-      "title": "옴니 로스앤젤레스 호텔 앳 캘리포니아 플라자",
-      "link": "https://www.klook.com/ko/hotels/detail/433322-omni-los-angeles-hotel-at-california-plaza/",
-      "score": "4.5",
-      "reviews": "2086",
-      "price": "US$ 161.01"
+      "title": "더 가드프리 호텔 할리우드",
+      "link": "https://www.klook.com/ko/hotels/detail/401104-the-godfrey-hotel-hollywood/",
+      "image": "https://i.travelapi.com/lodging/33000000/32950000/32945900/32945867/0dc63b84_z.jpg",
+      "score": "4.1",
+      "reviews": "1892",
+      "price": "US$ 99.65"
+    },
+    {
+      "title": "더 혹스턴 다운타운 LA",
+      "link": "https://www.klook.com/ko/hotels/detail/283772-the-hoxton-downtown-la/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/s2pix8/hotelImages/8546828/0/9945cd79f0f9637c1a6c9202fd57a490.webp",
+      "score": "4.6",
+      "reviews": "943",
+      "price": "US$ 138.49"
     },
     {
       "title": "더블트리 바이 힐튼 호텔 로스 앤젤레스 다운타운",
       "link": "https://www.klook.com/ko/hotels/detail/452925-doubletree-by-hilton-hotel-los-angeles-downtown/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/30000/25900/25892/74ccf654_z.webp",
       "score": "3.9",
       "reviews": "1773",
       "price": "US$ 147.16"
     },
     {
-      "title": "힐튼 로스앤젤레스 에어포트",
-      "link": "https://www.klook.com/ko/hotels/detail/391914-hilton-los-angeles-airport/",
-      "score": "3.9",
-      "reviews": "4332",
-      "price": "US$ 137.85"
+      "title": "옴니 로스앤젤레스 호텔 앳 캘리포니아 플라자",
+      "link": "https://www.klook.com/ko/hotels/detail/433322-omni-los-angeles-hotel-at-california-plaza/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/20000/18600/18595/52d26995_z.webp",
+      "score": "4.5",
+      "reviews": "2086",
+      "price": "US$ 161.01"
+    },
+    {
+      "title": "헐리우드 히스토릭 호텔",
+      "link": "https://www.klook.com/ko/hotels/detail/275252-hollywood-historic-hotel/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/4000000/3700000/3692200/3692166/645e5464_z.webp",
+      "score": "4.4",
+      "reviews": "820",
+      "price": "US$ 118.06"
     }
   ],
   "인기순위": [

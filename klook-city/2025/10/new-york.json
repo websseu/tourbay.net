@@ -1,74 +1,208 @@
 {
+  "액티비티": [
+    {
+      "title": "써밋 원 밴더빌트 입장권",
+      "link": "https://www.klook.com/ko/activity/67536-summit-one-vanderbilt-admission-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/huleahbvzrti9mh0axjj.webp",
+      "type": "전망대 • 뉴욕",
+      "score": "4.8",
+      "reviews": "408",
+      "price": "US$ 47.90"
+    },
+    {
+      "title": "뉴욕 현대미술관 (MoMA) 입장권",
+      "link": "https://www.klook.com/ko/activity/2954-museum-modern-art-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/otaknloebhfam5mtva8y.webp",
+      "type": "박물관 & 미술관 • 뉴욕",
+      "score": "4.8",
+      "reviews": "634",
+      "price": "US$ 28.00"
+    },
+    {
+      "title": "클룩 뉴욕 패스",
+      "link": "https://www.klook.com/ko/activity/71183-new-york-city-attractions-pass/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/mlheta8dk4qkaktrd6s9.webp",
+      "type": "어트랙션 패스 • 뉴욕",
+      "score": "4.5",
+      "reviews": "535",
+      "price": "US$ 86.00"
+    },
+    {
+      "title": "뉴욕 브로드웨이 알라딘 뮤지컬 티켓",
+      "link": "https://www.klook.com/ko/activity/7635-aladdin-broadway-show-ticket-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/pys2tccz7jesqqzgmw8s.webp",
+      "type": "이벤트 & 공연 • 뉴욕",
+      "score": "4.7",
+      "reviews": "253",
+      "price": "US$ 82.05"
+    },
+    {
+      "title": "뉴욕 브로드웨이 라이온 킹 티켓",
+      "link": "https://www.klook.com/ko/activity/7705-lion-king-broadway-show-ticket-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/rl8ggt0oxroxq4pcwwrf.webp",
+      "type": "이벤트 & 공연 • 뉴욕",
+      "score": "4.6",
+      "reviews": "329",
+      "price": "US$ 119.15"
+    },
+    {
+      "title": "엠파이어 스테이트 빌딩 티켓",
+      "link": "https://www.klook.com/ko/activity/2956-empire-state-building-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/xrnuwubde6af6fvpcw9p.webp",
+      "type": "전망대 • 뉴욕",
+      "score": "4.8",
+      "reviews": "518",
+      "price": "US$ 47.95"
+    },
+    {
+      "title": "뉴욕 자유의 여신상 익스프레스 투어",
+      "link": "https://www.klook.com/ko/activity/13799-statue-liberty-express-cruise-tour-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/lxv2ncfilv3e5saca33h.webp",
+      "type": "크루즈 • 뉴욕",
+      "score": "4.6",
+      "reviews": "96",
+      "price": "US$ 19.29"
+    },
+    {
+      "title": "자유의 여신상 투어 (투어 옵션 선택 가능)",
+      "link": "https://www.klook.com/ko/activity/99567-experience-statue-liberty-various-tour-options/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/i9ds6bgespytujnjucoo.webp",
+      "type": "투어 • 뉴욕",
+      "score": "4.4",
+      "reviews": "124",
+      "price": "US$ 29.00"
+    },
+    {
+      "title": "뉴욕 엣지 전망대 입장권",
+      "link": "https://www.klook.com/ko/activity/48043-edge-hudson-yards-new-york-admission/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/zkcsdhyqw2imjdcbcnvf.webp",
+      "type": "전망대 • 뉴욕",
+      "score": "4.8",
+      "reviews": "185",
+      "price": "US$ 39.20"
+    },
+    {
+      "title": "미국 자연사 박물관 티켓",
+      "link": "https://www.klook.com/ko/activity/127826-american-museum-of-natural-history-ticket/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/txbfqe68dfw8wnczc8bv.webp",
+      "type": "박물관 & 미술관 • 뉴욕",
+      "score": "4.6",
+      "reviews": "338",
+      "price": "US$ 30.00"
+    },
+    {
+      "title": "우드버리 커먼 프리미엄 아울렛 쇼핑 투어 (맨해튼 출발)",
+      "link": "https://www.klook.com/ko/activity/94398-woodbury-common-premium-outlets-shopping-join-tour-manhattan/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/eqxxirhwcwp3l2fzt1co.webp",
+      "type": "투어 • 맨해튼 출발",
+      "score": "4.6",
+      "reviews": "51",
+      "price": "US$ 47.00"
+    },
+    {
+      "title": "뉴욕 탑 오브 더 락 티켓",
+      "link": "https://www.klook.com/ko/activity/2964-top-of-the-rock-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/activities/nb2rya7hlwwtmndlplcu.webp",
+      "type": "전망대 • 뉴욕",
+      "score": "4.7",
+      "reviews": "937",
+      "price": "US$ 45.75"
+    }
+  ],
   "가볼만한곳": [
     {
       "title": "자유의 여신상",
       "link": "https://www.klook.com/ko/destination/p50056858-statue-of-liberty/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/pautg4ejks0hfkxsjcqa.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "자유의 여신상은 공식적으로 '세계를 비추는 자유'로 명명된 거대한 신고전주의 조각상으로 뉴욕 항구의 자유의 섬에 위치하고 있습니다. 이 자유와 민주주의의 상징적인 이 조각상은 프랑스 국민들로부터 미국에 선물로 전달되었으며, 1886년 10월 28일에 건립되었습니다. 프랑스 조각가 프레데릭 오게스트 바르톨디가 디자인하고 구스타브 에플의 금속 프레임워크로 제작된 이 조각상은 희망과 자유의 등대로서 매년 수백만 명의 방문객을 환영합니다. 뉴욕시의 자유의 여신상 국립 기념물과 엘리스 아일랜드 이민 박물관에서 이 상징적 아름다움과 역사적 중요성을 경험해보세요. 이 두 명소를 방문하면 미국의 과거와 자유, 희망의 상징에 대한 독특한 통찰력을 얻을 수 있습니다. 이 독특한 녹색 조각상의 거대한 자리와 높은 자세는 그것의 역사적, 문화적 중요성을 탐험하고자 하는 여행객들에게 잊지 못할 경험을 제공합니다."
     },
     {
       "title": "엠파이어스테이트 빌딩",
       "link": "https://www.klook.com/ko/destination/p50051857-empire-state-building/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/ylhsowmcayhs7unkxxba.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "제주도에 오신 것을 환영합니다. 이곳은 한국의 아름다운 섬으로 자연 경관과 풍부한 문화를 경험할 수 있는 곳입니다. 제주도는 화산섬으로 유명하며, 한라산은 한국에서 가장 높은 산으로 유명합니다. 제주도는 해변, 산, 숲, 폭포 등 다채로운 자연 경치를 제공하며, 특히 제주의 특산물인 감귤과 흑돼지는 맛있는 음식으로 유명합니다. 제주도는 한국에서 여행자들에게 인기 있는 목적지 중 하나이며, 자연과 문화를 동시에 경험할 수 있는 특별한 장소입니다."
     },
     {
       "title": "메트로폴리탄 미술관",
       "link": "https://www.klook.com/ko/destination/p50056872-the-metropolitan-museum-of-art/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/hcjtaj9yvhcpsqqt6esc.webp",
+      "type": "박물관",
       "score": "4.9",
       "description": "뉴욕시의 중심부에 자리 잡은 세계적으로 유명한 문화 보물, 메트로폴리탄 미술관을 발견해보세요. 이 상징적인 기관은 5,000년의 예술과 역사를 통해 전 세계에서 온 200만 점 이상의 작품을 선보이며, 비할 데 없는 여행을 제공합니다. 예술 애호가든 호기심 많은 여행자든, 메트는 풍부하고 잊을 수 없는 경험을 약속합니다. 멋진 전시회를 거닐며, 문화와 창의성의 직조 속에 빠져들어 감동과 영감을 받을 것입니다. 예술 애호가와 일반 방문객 모두에게 꼭 방문해야 할 장소인 메트는 인간 표현의 아름다움과 다양성을 탐험하도록 초대합니다."
     },
     {
       "title": "트러스 호텔 타임스 스퀘어",
       "link": "https://www.klook.com/ko/destination/p50001614-times-square/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/Time_Square-2_cutvf8.webp",
+      "type": "명승지",
       "score": "4.9",
       "description": "타임스 스퀘어는 뉴욕 맨해튼 미드타운의 활기찬 중심지로, 밝은 조명, 거대한 디지턀 광고판, 북적이는 분위기로 유명한 엔터테인먼트, 문화, 역사의 화려한 중심지입니다. 브로드웨이의 매력, 풍부한 역사, 다양한 다이닝 옵션에 매료되었든, 타임스 스퀘어는 세계 각지의 여행객들에게 필수 방문지입니다. 뉴욕 시내 중심부에서 전형적인 호텔 경험과는 다른 활기찬, 재미있는 모키 타임스 스퀘어에 오신 것을 환영합니다. 대담한 디자인, 몰입형 소셜 공간, 합리적인 요금으로 현대 여행객들이 먹고, 마시고, 쉬고, 소통하며 놀 수 있는 완벽한 목적지입니다. 뉴욕의 아이코닉한 목적지인 타임스 스퀘어는 화려한 조명, 북적이는 분위기, 활기찬 에너지로 매년 수백만 방문객을 매료시킵니다. '세계의 교차로'로 불리는 타임스 스퀘어는 엔터테인먼트, 문화, 역사를 맨해튼의 중심부에서 결합한 특별한 경험을 제공합니다."
     },
     {
       "title": "Broadway",
       "link": "https://www.klook.com/ko/destination/p60271857-broadway/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/cbqn8a3zfhgkccrmvvvc.webp",
+      "type": "거리",
       "score": "4.9",
       "description": "뉴욕시 브로드웨이에 오신 것을 환영합니다. 이곳은 연극 애호가와 문화 탐험가들에게 최고의 여행지입니다. 평생 뉴요커이든, 도시의 활기찬 예술 현장을 경험하고 싶은 방문객이든, 브로드웨이 쇼에서의 밤은 그 어떤 것과도 비교할 수 없는 경험입니다. 'The Great White Way'로 알려진 브로드웨이는 라이브 극장의 정점으로, 미드타운 맨해튼 중심부의 역사적인 장소에서 세계적인 공연을 제공합니다. 심장을 두근거리게 하는 뮤지컬부터 감동적인 드라마까지, 브로드웨이는 잊을 수 없는 순간과 최고 수준의 재능으로 관객을 사로잡습니다. 매년 전 세계에서 수백만 명의 방문객이 이 상징적인 극장 지구를 찾는 것은 놀라운 일이 아닙니다. 가족 나들이, 로맨틱한 데이트, 또는 수상 경력에 빛나는 연극을 보고 싶다면, 브로드웨이는 모든 사람을 위한 무언가를 제공합니다. 뉴욕 극장 가이드를 통해 최고의 브로드웨이 티켓을 확보하여 브로드웨이만이 선사할 수 있는 마법을 놓치지 마세요."
     },
     {
       "title": "센트럴 파크",
       "link": "https://www.klook.com/ko/destination/p50162222-central-park/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/h6nxrtwu63xibdznhs1x.webp",
+      "type": "자연공원",
       "score": "4.9",
       "description": "맨해튼 중심부에 위치한 센트럴 파크는 번화한 도시 생활에서 벗어나 조용한 휴식처를 제공하는 광활한 도시 오아시스입니다. 843에이커에 이르는 면적을 자랑하는 이곳은 연간 약 4200만 명의 방문객을 유치하여 미국에서 가장 많이 방문하는 도시 공원입니다. 자연 애호가, 역사 애호가, 또는 평화로운 휴양지를 찾는 분들까지, 센트럴 파크는 모두에게 무언가를 제공합니다. 뉴욕의 상징적인 녹지 공간인 센트럴 파크는 자연의 아름다움, 문화적 명소, 그리고 레크리에이션 활동이 동시에 어우러진 독특한 경험을 제공합니다. 지역 주민이든 방문객이든, 이 공원의 광활한 풍경과 다양한 명소는 맨해튼 중심부에서 잊지 못할 경험을 선사합니다. 센트럴 파크 보트하우스에 오신 것을 환영합니다. 이곳은 역사적인 장소에 머무르는 것 이상의 의미를 담고 있습니다. 우리는 과거의 매력이 현재의 역동성과 만나 독특한 전통과 현대성이 어우러지는 곳으로, 뉴욕 시내처럼 신선하고 흥미로운, 그리고 시대를 초월한 곳입니다. 우리의 재오픈을 알리게 되어 기쁩니다. 사랑받아온 보트하우스에 새로운 숨결을 불어넣으며, 우리는 지금껏 경험하지 못한 새로운 경험을 선사하면서도 도시의 오래된 일부분으로서의 본질을 보존하고 있습니다."
     },
     {
       "title": "서밋 원 반더빌트",
       "link": "https://www.klook.com/ko/destination/p60176916-one-vanderbilt/",
+      "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_863/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/wubr4prcp6e8zbdxwizp/SUMMITOneVanderbiltTicket.webp",
+      "type": "관광 명소",
       "score": "4.8",
       "description": "원 밴더빌트에 오신 것을 환영합니다. 이 놀라운 초고층 빌딩은 맨해튼 미드타운의 스카이라인을 장식하며, 2020년에 완공된 뉴욕시에서 네 번째로 높은 건물입니다. 현대적인 디자인과 역사적 경의를 조화롭게 결합한 이 건물은 뉴욕의 건축적 웅장함을 경험하고자 하는 여행자들에게 꼭 방문해야 할 명소입니다. 아이코닉한 그랜드 센트럴 터미널과 가까운 도심 한가운데 위치한 원 밴더빌트는 숨막히는 전망과 뉴욕의 건축적 웅장함을 맛볼 수 있는 필수 방문지입니다. 예술, 기술, 건축, 스릴이 융합되어 뉴욕시 전망대 경험을 재정의하는 SUMMIT 원 밴더빌트를 발견해 보세요. 맨해튼의 분주한 거리 위 1,100피트 높이에 서 있는 이 탑은 방문객들에게 하늘로의 비할 데 없는 여정을 제공하며, 숨막히는 전망과 잊을 수 없는 순간을 약속합니다. 원 밴더빌트의 SUMMIT에서 뉴욕시 스카이라인의 정점을 경험하세요. 숨막히는 전망과 몰입형 예술, 스릴 넘치는 모험이 만나 예술, 건축, 그리고 아래 도시의 활기찬 에너지를 통해 잊을 수 없는 여정을 제공합니다."
     },
     {
       "title": "탑 오브 더 록 뉴욕",
       "link": "https://www.klook.com/ko/destination/p60271907-top-of-the-rock-new-york/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/smy1oqdbrh2wbuunkldj.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "뉴욕시의 마법과 숨막히는 전망을 새로운 시각에서 경험해보세요. 아이코닉한 록펠러 센터에 위치한 탑 오브 더 록에서 말이죠. 30 록펠러 플라자에 자리 잡은 이곳은 도시의 스카이라인을 한눈에 볼 수 있는 최고의 전망을 제공합니다. 여행자라면 꼭 방문해야 할 명소입니다. 독특한 매력과 풍부한 문화적 역사를 지닌 탑 오브 더 록은 처음 방문하는 사람이나 뉴욕에 익숙한 사람 모두에게 잊을 수 없는 경험을 선사합니다. 이곳에서만 가능한 특별한 경험을 발견해보세요."
     },
     {
       "title": "프렌즈 아파트먼트 빌딩",
       "link": "https://www.klook.com/ko/destination/p50116395-friends-apartment-building/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "투어 어트랙션",
       "score": "4.9",
       "description": "뉴욕시의 그리니치 빌리지 중심부에 위치한 프렌즈 아파트 건물을 방문하여 가장 사랑받는 TV 쇼 중 하나의 세계로 들어가 보세요. 90 베드포드 스트리트에 자리 잡고 있는 이 상징적인 장소는 모니카, 레이첼, 조이, 챈들러의 삶을 추억할 수 있는 기회를 제공합니다. 내부에서 촬영된 장면은 없지만, 이 건물의 외관은 그들의 아파트 배경으로 사용되어 문화적 랜드마크가 되었으며, 프렌즈 팬이라면 꼭 방문해야 할 명소입니다. 열렬한 팬이든 가벼운 시청자든, 프렌즈 아파트 건물은 쇼의 마법을 생생하게 느낄 수 있게 해주며, 전 세계에서 온 방문객들이 TV 역사 속 한 조각을 담기 위해 이곳을 찾습니다."
     },
     {
       "title": "성 박물관",
       "link": "https://www.klook.com/ko/destination/p50075552-museum-of-sex/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "박물관",
       "score": "4.9",
       "description": "뉴욕 시에 위치한 성 박물관에서 예술, 역사, 그리고 감각이 만나는 세계로 들어가 보세요. 2002년에 설립된 이 독특한 장소는 인간의 성에 대한 시간을 초월한 탐구를 제공하며, 교육적이면서도 도발적인 경험을 찾는 이들에게 꼭 방문해야 할 곳입니다. 박물관은 인간 성의 역사, 진화, 문화적 중요성을 탐구하며 사회적 규범에 도전하고 열린 대화를 장려합니다. 다양한 전시와 인터랙티브한 경험을 통해 성 박물관은 호기심 많은 여행자나 경험 많은 박물관 방문객 모두에게 도발적이면서도 깊이 있는 잊을 수 없는 여정을 약속합니다."
     },
     {
       "title": "드림웍스 워터파크",
       "link": "https://www.klook.com/ko/destination/p60179355-dreamworks-water-park/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/v1718610517/UED_new/Transport%20Tickets/%E9%A6%96%E9%A1%B5_2306%28Pre-sale%E4%BC%98%E5%8C%96%29/%E6%89%93%E5%BA%95%E5%9B%BE.webp",
+      "type": "놀이공원",
       "score": "4.8",
       "description": "미국 최대의 실내 워터파크인 드림웍스 워터파크에서 모험과 흥분의 세계로 빠져보세요. 뉴저지 이스트 러더포드에 위치한 아메리칸 드림 복합단지 내에 자리 잡고 있는 이 수상 낙원은 연중 내내 스릴과 가족의 즐거움을 제공합니다. 아메리칸 드림 몰의 보석 같은 드림웍스 워터파크는 짜릿한 어트랙션과 사랑받는 드림웍스 애니메이션 캐릭터가 어우러져 가족과 스릴을 추구하는 여행자들에게 꼭 방문해야 할 명소입니다. 방문객들은 사랑받는 캐릭터와 짜릿한 수상 어트랙션의 세계로 이동하여 모두에게 잊지 못할 경험을 선사합니다."
     },
     {
       "title": "크라이슬러 빌딩",
       "link": "https://www.klook.com/ko/destination/p60271891-chrysler-building/",
+      "image": "https://res.klook.com/image/upload/fl_lossy.progressive,w_550,h_376,c_fill,q_80/activities/u3e0wvtbkd9jnevkcarf.webp",
+      "type": "",
       "score": "4.9",
       "description": "맨해튼 스카이라인의 상징적인 보석인 크라이슬러 빌딩은 20세기 초의 건축 혁신과 야망을 보여주는 증거입니다. 독특한 계단식 왕관과 첨탑을 가진 이 거대한 걸작은 전 세계 사람들의 상상력을 사로잡으며 뉴욕시에서 가장 잘 알려지고 사랑받는 건축물 중 하나로 남아 있습니다. 1930년 개장 이래, 크라이슬러 빌딩은 아르데코 건축의 웅장함을 상징하며, 문화적 참조와 역사적 중요성으로 가득 차 있습니다. 최근의 도전에도 불구하고, 뉴욕의 유서 깊은 과거와 20세기 초의 디자인의 빛을 경험하고자 하는 여행자들에게 여전히 꼭 방문해야 할 명소로 남아 있습니다. 건축 애호가든 단순히 호기심 많은 여행자든, 크라이슬러 빌딩은 도시의 활기찬 역사와 지속적인 매력을 엿볼 수 있는 매혹적인 기회를 제공합니다."
     }
@@ -77,62 +211,71 @@
     {
       "title": "포드 타임스 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/240912-pod-times-square/",
+      "image": "https://i.travelapi.com/lodging/20000000/19690000/19681400/19681371/252305a7_z.jpg",
       "score": "4.4",
       "reviews": "3980",
       "price": "US$ 106.90"
     },
     {
-      "title": "Romana Hotel - NYC",
-      "link": "https://www.klook.com/ko/hotels/detail/1776792-romana-hotel--nyc/",
-      "score": "3.6",
-      "reviews": "1000",
-      "price": "US$ 104.48"
-    },
-    {
       "title": "모토 바이 힐튼 뉴욕 시티 타임스 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/1198855-motto-by-hilton-new-york-city-times-square/",
+      "image": "https://i.travelapi.com/lodging/92000000/91340000/91334200/91334200/a29212c4_z.jpg",
       "score": "4.4",
       "reviews": "2176",
       "price": "US$ 163.01"
     },
     {
-      "title": "언타이틀드 앳 3 프리먼 알리",
-      "link": "https://www.klook.com/ko/hotels/detail/1215803-untitled-at-3-freeman-alley/",
-      "score": "4.5",
-      "reviews": "450",
-      "price": "US$ 279.41"
-    },
-    {
       "title": "레드 루프 플러스+ 브루클린 - 플랫부시 애비뉴",
       "link": "https://www.klook.com/ko/hotels/detail/735636-red-roof-plus-brooklyn--flatbush-ave/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/trip/0223r1200096oz1qb349B_R_550_412_R5.webp",
       "score": "",
       "reviews": "",
       "price": "US$ 118.42"
     },
     {
-      "title": "파크 센트럴 호텔 뉴욕",
-      "link": "https://www.klook.com/ko/hotels/detail/566777-park-central-hotel-new-york/",
-      "score": "3.8",
-      "reviews": "2992",
-      "price": "US$ 123.03"
+      "title": "언타이틀드 앳 3 프리먼 알리",
+      "link": "https://www.klook.com/ko/hotels/detail/1215803-untitled-at-3-freeman-alley/",
+      "image": "https://i.travelapi.com/lodging/89000000/88310000/88301100/88301057/a6d87906_z.jpg",
+      "score": "4.5",
+      "reviews": "450",
+      "price": "US$ 279.41"
     },
     {
-      "title": "목시 뉴욕 타임즈 스퀘어",
-      "link": "https://www.klook.com/ko/hotels/detail/559105-moxy-nyc-times-square/",
-      "score": "4.3",
-      "reviews": "2190",
-      "price": "US$ 248.48"
+      "title": "포드 브루클린",
+      "link": "https://www.klook.com/ko/hotels/detail/262605-pod-brooklyn/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/20000000/19910000/19908600/19908533/13ecb40d_z.webp",
+      "score": "4.4",
+      "reviews": "1260",
+      "price": "US$ 100.75"
+    },
+    {
+      "title": "아를로 미드타운",
+      "link": "https://www.klook.com/ko/hotels/detail/694229-arlo-midtown/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/49000000/48670000/48669400/48669360/4b28c418_z.webp",
+      "score": "4.5",
+      "reviews": "5063",
+      "price": "US$ 222.90"
     },
     {
       "title": "파라마운트 타임스 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/394971-paramount-times-square/",
+      "image": "https://i.travelapi.com/lodging/1000000/30000/24300/24245/696d2f4b_z.jpg",
       "score": "3.4",
       "reviews": "46",
       "price": "US$ 148.08"
     },
     {
+      "title": "Romana Hotel - NYC",
+      "link": "https://www.klook.com/ko/hotels/detail/1776792-romana-hotel--nyc/",
+      "image": "https://i.travelapi.com/lodging/10000000/9070000/9062600/9062555/152956b3_z.jpg",
+      "score": "3.6",
+      "reviews": "1000",
+      "price": "US$ 104.48"
+    },
+    {
       "title": "더 맨해튼 앳 타임스 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/244263-the-manhattan-at-times-square/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/1000000/10000/7500/7498/acb96c37_z.webp",
       "score": "2.8",
       "reviews": "4046",
       "price": "US$ 140.05"
@@ -140,6 +283,7 @@
     {
       "title": "호텔 리우 플라자 맨해튼 타임스 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/404981-hotel-riu-plaza-manhattan-times-square/",
+      "image": "https://i.travelapi.com/lodging/61000000/60680000/60677500/60677495/4d3a114e_z.jpg",
       "score": "4.5",
       "reviews": "3307",
       "price": "US$ 231.80"
@@ -147,16 +291,18 @@
     {
       "title": "오요 타임 스퀘어",
       "link": "https://www.klook.com/ko/hotels/detail/393076-oyo-times-square/",
+      "image": "http://photos.hotelbeds.com/giata/bigger/08/081936/081936a_hb_a_029.jpg",
       "score": "3.6",
       "reviews": "1199",
       "price": "US$ 148.18"
     },
     {
-      "title": "아를로 미드타운",
-      "link": "https://www.klook.com/ko/hotels/detail/694229-arlo-midtown/",
-      "score": "4.5",
-      "reviews": "5063",
-      "price": "US$ 222.90"
+      "title": "목시 뉴욕 타임즈 스퀘어",
+      "link": "https://www.klook.com/ko/hotels/detail/559105-moxy-nyc-times-square/",
+      "image": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,w_432,h_288,c_fill,q_85/travelapi/18000000/17930000/17924500/17924434/ad78e412_z.webp",
+      "score": "4.3",
+      "reviews": "2190",
+      "price": "US$ 248.48"
     }
   ],
   "인기순위": [
