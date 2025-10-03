@@ -4,3 +4,5 @@
 
 ## 데이터 수집
 클룩에 도시별 데이터 수집 : klook-city
+
+https://websseu.github.io/tourbay.net/klook-city/2025/10/abu-dhabi.json
