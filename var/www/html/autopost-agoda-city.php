@@ -77,7 +77,7 @@ for ($i = 0; $i < $max_attempts; $i++) {
 
     $response = wp_remote_get($json_url);
     if ( is_wp_error($response) ) {
-        echo "❌ JSON 가져오기 실패: " . $response->get_error_message() . "<br>";
+        echo "❌ JSON 가져오기 실패: " . $response->get_error_message() . "<br>"; 
         continue;
     }
 
@@ -91,7 +91,7 @@ for ($i = 0; $i < $max_attempts; $i++) {
     }
 }
 
-if (!$selected_city) {
+if (!$selected_city) { 
     die("❌ 10번 시도했지만 데이터가 있는 도시를 찾지 못했습니다.");
 }
 
